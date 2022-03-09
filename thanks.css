@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+     background-size: contain;
+    background-color: rgb(21, 22, 24);
+  
+    
+    
+}
+.thank{
+    
+        margin-top: 300px;
+    font-size: 90px;
+    line-height: 62px;
+    font-family: 'Rowdies', cursive;
+    font-weight: 400;
+    color: rgb(254, 59, 31);
+    
+    
+}
